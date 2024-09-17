@@ -1,1 +1,1 @@
-# JS
+This is my 38th assignment! In this we go over multiple array methods, ways of manipulating arrays, and working with strings. Arrays are something I am very comfortable with as I first started with JS, not Python. This has been a good refresher, and I even picked up something new with the rest operator.
